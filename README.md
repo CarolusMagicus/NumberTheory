@@ -30,3 +30,8 @@ further information: http://git-scm.com/downloads/guis
 -~-~-~-~-~
 
 mergetool: kdiff3
+
+-~-~-~-~-~
+
+Your task: Add your entry to exercise.tex!
+
