@@ -1,6 +1,8 @@
 NumberTheory
 ============
 
+I was in Cologne.
+
 Formalization of number theory texts in Naproche
 
 -~-~-~
