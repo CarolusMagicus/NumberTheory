@@ -1,7 +1,7 @@
 NumberTheory
 ============
 
-I was in Cologne.
+You were in Cologne? Me too.
 
 Formalization of number theory texts in Naproche
 
